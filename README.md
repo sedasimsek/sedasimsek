@@ -20,10 +20,7 @@ sedasimsek/sedasimsek README.md
 <a href="sedasimsekk27@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-### Technologies:
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-
+###
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sedasimsek&show_icons=true&theme=radical)
 
