@@ -5,9 +5,9 @@ sedasimsek/sedasimsek README.md
 [![GitHub stars](https://img.shields.io/github/stars/sedasimsek/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/sedasimsek/StrapDown.js/stargazers/)
 ![Profile views](https://gpvc.arturio.dev/sedasimsek)
 
-<h3 align="center">Hi 👋, I'm Seda</h3>
+<h1 align="center">Hi 👋, I'm Seda</h1>
 
-<h3 align="center">4th Grade Computer Engineering Student</h3>
+<h2 align="center">4th Grade Computer Engineering Student</h2>
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sedasimsek&row=1)](https://github.com/sedasimsek/github-profile-trophy)
 
