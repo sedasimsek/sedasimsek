@@ -7,7 +7,7 @@ sedasimsek/sedasimsek README.md
 
 <h1 align="center">Hi 👋, I'm Seda</h1>
 
-<h2 align="center">4th Grade Computer Engineering Student</h2>
+<h2 align="center">I'm Computer Engineer</h2>
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sedasimsek&row=1)](https://github.com/sedasimsek/github-profile-trophy)
 
