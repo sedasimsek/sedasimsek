@@ -9,6 +9,8 @@ sedasimsek/sedasimsek README.md
 
 <h2 align="center">Computer Engineer</h2>
 
+<h3 align="center">Information Technology Operation Specialist at Turk Telekom</h3>
+
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sedasimsek&row=1)](https://github.com/sedasimsek/github-profile-trophy)
 
 ### Connect with me: 
